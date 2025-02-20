@@ -32,6 +32,18 @@
 
 3. **Explorar categorías**:  
    Además de la búsqueda por nombre o ingrediente, la app permite filtrar recetas por categorías (como "Cócteles clásicos", "Cócteles sin alcohol", etc.), mejorando la experiencia de navegación.
+   
+---
+
+## Instalación y ejecución del proyecto
+
+Para comenzar a trabajar con este proyecto, sigue estos pasos:
+
+```cmd
+git clone <url-del-repositorio>
+cd <nombre-del-directorio-del-proyecto>
+npm install
+npm run dev
 
 ---
 
